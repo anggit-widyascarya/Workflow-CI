@@ -1,1 +1,1 @@
-https://hub.docker.com/r/<username_dockerhub>/telco-churn   <- ganti dengan username Docker Hub
+   https://hub.docker.com/r/anggitwidyascarya/telco-churn
