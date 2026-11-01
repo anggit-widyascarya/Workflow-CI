@@ -77,7 +77,7 @@ jobs:
 
       - name: Build Docker Model
         run: |
-          mlflow models build-docker --model-uri "runs:/${{ env.RUN_ID }}/model" --name "${{ env.IMAGE_NAME }}"
+          mlflow models build-docker --model-uri "runs:/${{ env.RUN_ID }}/model" --name "${{ env.IMAGE_NAME }}" --env-manager local
         env:
           MLFLOW_TRACKING_URI: file:./mlruns
 
