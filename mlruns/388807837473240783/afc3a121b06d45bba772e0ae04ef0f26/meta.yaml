@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/388807837473240783/afc3a121b06d45bba772e0ae04ef0f26/artifacts
+end_time: 1793554574439
+entry_point_name: ''
+experiment_id: '388807837473240783'
+lifecycle_stage: active
+run_id: afc3a121b06d45bba772e0ae04ef0f26
+run_name: bustling-snail-687
+run_uuid: afc3a121b06d45bba772e0ae04ef0f26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793554567889
+status: 3
+tags: []
+user_id: runner
